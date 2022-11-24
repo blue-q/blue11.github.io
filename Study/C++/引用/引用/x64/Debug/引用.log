@@ -1,6 +1,0 @@
-﻿  引用基本语法.cpp
-D:\qiuzx\mygit\引用\引用\引用基本语法.cpp(16,41): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\qiuzx\mygit\引用\引用\引用基本语法.cpp(16,41): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\qiuzx\mygit\引用\引用\引用基本语法.cpp(17,41): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\qiuzx\mygit\引用\引用\引用基本语法.cpp(17,41): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-  引用.vcxproj -> D:\qiuzx\mygit\引用\x64\Debug\引用.exe
